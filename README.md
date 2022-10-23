@@ -3,7 +3,7 @@
 We are an open-source developer association focused on improving tools, libraries and learning media for other developers.
 
 ## Are your licenses fully open-source?
-Yes. Our projects, libraries and utilities either use the Apache License 2.0 or MIT License. Both of these licenses are Open Source Initiative approved. 
+Yes. Our projects, libraries and utilities use the MIT License which has been approved by the Free Software Foundation (FSF).
 
 ## If I use your project, am I required to attribute you?
 Although highly encouraged, it absolutely upto you if you want to attribute us if you use our projects in your works.
